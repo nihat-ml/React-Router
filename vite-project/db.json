@@ -1,0 +1,17 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "description": "A novel about the American dream.",
+        "price": 20,
+        "author": "F. Scott Fitzgerald",
+        "pagesCount": 180,
+        "publishedYear": "1925",
+        "genre": "Fiction",
+        "language": "English",
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
